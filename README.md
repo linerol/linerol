@@ -1,24 +1,24 @@
-# Bienvenue sur mon profil GitHub !
+# Bienvenue sur mon GitHub !
 
 ## Qui suis-je ?
 
-👋 Salut ! Je suis Linerol, un passionné de la robotique et de l'IoT. Actuellement étudiant en 3e année à Epitech, je suis constamment en quête de nouvelles connaissances et d'expériences excitantes dans le domaine de la technologie.
+👋 Salut ! Je m'appelle Linerol, étudiant en Mastère à Ynov Paris en "Expert en développement Logiciel, Mobile & IoT". Après avoir obtenu mon diplôme en informatique à Epitech, je poursuis une spécialisation en développement logiciel et objets connectés, et je me passionne pour les défis technologiques du quotidien.
 
 ## Ce que je fais
 
-🛠️ Actuellement, je me concentre sur l'acquisition de compétences en développement back-end. Je m'immerge dans divers projets visant à maîtriser les technologies et les concepts fondamentaux du développement côté serveur. Mon objectif est de devenir un développeur back-end compétent et de contribuer à des solutions logicielles robustes et performantes.
+🛠️ Actuellement, je me concentre sur le développement back-end et l'intégration d'objets connectés. Mes projets actuels mettent l'accent sur la conception de solutions performantes et évolutives, avec une approche rigoureuse pour les architectures serveur. Mon objectif : maîtriser les technologies de pointe pour créer des applications solides et intuitives.
 
 ## Mes intérêts
 
-💡 Je suis fasciné par les possibilités infinies qu'offrent la robotique et l'IoT pour améliorer notre quotidien. J'aime explorer de nouvelles technologies et créer des solutions innovantes qui repoussent les limites de ce qui est possible.
+💡 Mes passions incluent la robotique, l'Internet des objets et l’innovation technologique. J’adore explorer des outils et solutions pour repousser les limites de ce qui est possible. Les objets connectés et les systèmes intelligents me fascinent, et je rêve de créer des projets qui simplifient et améliorent la vie quotidienne.
 
 ## Ce que vous trouverez ici
 
-📦 Sur mon profil GitHub, vous trouverez une collection de projets et de travaux personnels dans lesquels j'ai mis tout mon cœur et ma passion. N'hésitez pas à explorer mes dépôts, à cloner mes projets et à me faire part de vos commentaires ou de vos idées !
+📦 Ce GitHub contient mes projets et collaborations, le fruit de mes recherches et expérimentations. Des solutions pratiques aux projets exploratoires, vous y trouverez des exemples concrets de mes compétences en développement logiciel. N’hésitez pas à explorer, cloner et commenter mes travaux.
 
 ## Me contacter
 
-📧 Si vous avez des questions, des suggestions ou simplement envie de discuter, n'hésitez pas à me contacter par e-mail à l'adresse [linerol@icloud.com](mailto:linerol@icloud.com). Je suis toujours ouvert aux collaborations et aux opportunités passionnantes !
+📧 Pour toute question, suggestion ou collaboration, envoyez-moi un e-mail à [linerol@icloud.com](mailto:linerol@icloud.com). Je suis toujours ouvert à de nouvelles rencontres et aux opportunités stimulantes !
 
 
 <!--

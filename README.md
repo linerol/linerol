@@ -3,7 +3,7 @@
 ## 🎓 Étudiant & Développeur Logiciel
 
 **Mastère 1 Développement Mobile & IoT** | Île-de-France 📍  
-Diplômé d'un Bachelor à **Epitech** (2024) | Développeur logiciel passionné par les technologies low-level
+Diplômé d'un Bachelor à **Epitech** (2024) | Développeur logiciel passionné par la robotique et les objets connectés
 
 > [!IMPORTANT]
 > **🔍 RECHERCHE D'ALTERNANCE - SEPTEMBRE 2025** 

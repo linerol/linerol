@@ -95,7 +95,7 @@
 > 
 > **Seeking:** IoT Development • Backend Engineering • DevOps • Embedded Systems  
 > **Location:** Île-de-France region  
-> **Schedule:** 3 days company / 2 days school
+> **Schedule:** 2 weeks company / 1 week school
 > 
 > **What I bring:**
 > ✅ Strong low-level programming skills (C/C++, Assembly)  

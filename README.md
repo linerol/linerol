@@ -5,10 +5,16 @@
 **Mastère 1 Développement Mobile & IoT** | Île-de-France 📍  
 Diplômé d'un Bachelor à **Epitech** (2024) | Développeur logiciel passionné par les technologies low-level
 
-**🔍 À la recherche d'une alternance pour septembre 2025** dans les domaines :
-- 🌐 **IoT & Systèmes Embarqués**
-- 💻 **Développement Logiciel & Backend**  
-- ⚙️ **DevOps & Infrastructure**
+> [!IMPORTANT]
+> **🔍 RECHERCHE D'ALTERNANCE - SEPTEMBRE 2025** 
+> 
+> Actuellement à la recherche d'une alternance dans les domaines :
+> - 🌐 **IoT & Systèmes Embarqués**
+> - 💻 **Développement Logiciel & Backend**  
+> - ⚙️ **DevOps & Infrastructure**
+> 
+> 📍 **Localisation :** Île-de-France  
+> 📧 **Contact :** sessiessenamlinerol.tchecounnou@ynov.com
 
 ## 🛠️ Stack Technique
 
@@ -84,8 +90,8 @@ Découvrez mes autres réalisations en **développement système**, **IoT** et *
 
 ## 🤝 Connectons-nous !
 
-- 💼 **LinkedIn :** [Ton profil LinkedIn](https://linkedin.com/in/ton-profil)
-- 📧 **Email :** ton-email@exemple.com
+- 💼 **LinkedIn :** [Ton profil LinkedIn](https://linkedin.com/in/linerol)
+- 📧 **Email :** sessiessenamlinerol.tchecounnou@ynov.com
 - 📱 **Disponible pour échanger sur des opportunités d'alternance !**
 
 ## 📈 Parcours

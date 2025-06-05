@@ -1,110 +1,138 @@
-# Salut ! 👋 Je suis Linerol
+# Hi there! 👋 I'm Linerol
 
-## 🎓 Étudiant & Développeur Logiciel
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Mobile+%26+IoT+Developer;Software+Engineering+Student;Backend+%26+DevOps+Enthusiast" alt="Typing SVG" />
+</div>
 
-**Mastère 1 Développement Mobile & IoT** | Île-de-France 📍  
-Diplômé d'un Bachelor à **Epitech** (2024) | Développeur logiciel passionné par la robotique et les objets connectés
+## 🎓 About Me
+
+**Master's in Mobile Development & IoT** | Paris, France 📍  
+**Epitech Graduate** (2024) | Passionate about robotics and connected devices
 
 > [!IMPORTANT]
-> **🔍 RECHERCHE D'ALTERNANCE - SEPTEMBRE 2025** 
+> **🚀 SEEKING APPRENTICESHIP - SEPTEMBER 2025**
 > 
-> Actuellement à la recherche d'une alternance dans les domaines :
-> - 🌐 **IoT & Systèmes Embarqués**
-> - 💻 **Développement Logiciel & Backend**  
+> Looking for opportunities in:
+> - 🌐 **IoT & Embedded Systems**
+> - 💻 **Software Development & Backend**  
 > - ⚙️ **DevOps & Infrastructure**
 > 
-> 📍 **Localisation :** Île-de-France  
-> 📧 **Contact :** sessiessenamlinerol.tchecounnou@ynov.com
+> 📍 **Location:** Île-de-France  
+> 📧 **Contact:** sessiessenamlinerol.tchecounnou@ynov.com
 
-## 🛠️ Stack Technique
+<br>
 
-**Langages**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat&logo=assemblyscript&logoColor=white)
+## 🛠️ Tech Stack
 
-**Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+<div align="center">
 
-**Backend & Databases**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-**DevOps & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### Mobile & Frontend
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## 📊 Statistiques GitHub
+### Backend & Databases
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=linerol&show_icons=true&theme=tokyonight&count_private=true)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=linerol&layout=compact&theme=tokyonight)
+</div>
 
-## 🌟 Projets Phares
+<br>
 
-### 🌱 [GreenHabit](lien-vers-le-repo)
-**Application mobile écologique développée en 36h lors d'un hackathon**
-- **Objectif :** Encourager l'adoption d'habitudes respectueuses de l'environnement
-- **Features :** 
-  - Définition d'objectifs écologiques personnalisés
-  - Scanner de codes-barres pour l'impact environnemental des produits
-  - Système de notifications motivationnelles
-  - Comparaison sociale des progrès entre utilisateurs
-- **Tech :** React Native
+## 📊 GitHub Analytics
 
-### 🎯 [RayTracer](lien-vers-le-repo)
-**Moteur de rendu 3D basé sur la technique du lancer de rayon**
-- **Objectif :** Implémentation complète d'un ray tracer from scratch
-- **Features :**
-  - Concepts physiques : réflexion, réfraction, ombres portées
-  - Modélisation de scènes complexes avec structures orientées objet
-  - Rendu haute qualité d'images 3D photoréalistes
-- **Tech :** C++
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linerol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linerol&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-### 💻 [Autres Projets]
-Découvrez mes autres réalisations en **développement système**, **IoT** et **infrastructure** dans mes repositories !
+<br>
 
-## 🎯 Recherche d'Alternance 2025
+## 🚀 Featured Projects
 
-**Profil recherché :**
-- 📅 **Disponibilité :** Septembre 2025
-- 🏢 **Secteurs :** IoT, Développement Backend, DevOps, Systèmes Embarqués
-- 📍 **Localisation :** Île-de-France
-- ⏰ **Rythme :** Selon planning école (généralement 3j entreprise / 2j école)
+<div align="center">
 
-**Ce que j'apporte :**
-- Solides bases en développement low-level (C/C++, Assembly)
-- Expérience en développement mobile et web
-- Connaissance des pratiques DevOps et CI/CD
-- Curiosité technique et capacité d'adaptation
+### 🌱 GreenHabit
+**Eco-friendly mobile app built in 36h hackathon**
 
-## 🤝 Connectons-nous !
+*Encouraging sustainable daily habits through gamification*
 
-- 💼 **LinkedIn :** [Ton profil LinkedIn](https://linkedin.com/in/linerol)
-- 📧 **Email :** sessiessenamlinerol.tchecounnou@ynov.com
-- 📱 **Disponible pour échanger sur des opportunités d'alternance !**
-
-## 📈 Parcours
-
-**2024 :** 🎓 Bachelor Epitech - Développement Logiciel  
-**2024-2025 :** 📚 Mastère 1 Développement Mobile & IoT  
-**Actuellement :** 💼 Stage + Recherche d'alternance
+**Features:** Goal setting • Barcode scanning • Social comparison • Smart notifications  
+**Tech:** React Native
 
 ---
 
-💡 **Passionné par l'innovation technologique, je cherche à contribuer à des projets stimulants alliant technique et impact.**
+### 🎯 RayTracer Engine
+**3D rendering engine using ray tracing techniques**
 
-![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=linerol.linerol)
+*From-scratch implementation of photorealistic 3D rendering*
+
+**Features:** Physics simulation • Complex scene modeling • Object-oriented architecture  
+**Tech:** C++
+
+</div>
+
+<br>
+
+## 🎯 Apprenticeship Search
+
+> [!NOTE]
+> **Available from September 2025**
+> 
+> **Seeking:** IoT Development • Backend Engineering • DevOps • Embedded Systems  
+> **Location:** Île-de-France region  
+> **Schedule:** 3 days company / 2 days school
+> 
+> **What I bring:**
+> ✅ Strong low-level programming skills (C/C++, Assembly)  
+> ✅ Mobile & web development experience  
+> ✅ DevOps & CI/CD knowledge  
+> ✅ Technical curiosity & adaptability
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linerol)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sessiessenamlinerol.tchecounnou@ynov.com)
+
+**Open to discussing apprenticeship opportunities!**
+
+</div>
+
+<br>
+
+## 📈 Journey
+
+**2024** → 🎓 Bachelor's Degree at Epitech  
+**2024-2025** → 📚 Master's in Mobile Development & IoT  
+**Currently** → 💼 Internship + Apprenticeship search
+
+---
+
+<div align="center">
+
+*"Building tomorrow's connected world, one line of code at a time"*
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=linerol.linerol&color=6366f1)
+
+</div>
 
 <!--
 **linerol/linerol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
